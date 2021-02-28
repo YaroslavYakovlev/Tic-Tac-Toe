@@ -1,0 +1,84 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+build/CMakeFiles/cipher.dir/build.make
+build/CMakeFiles/cipher.dir/cmake_clean.cmake
+build/CMakeFiles/cipher.dir/compiler_depend.internal
+build/CMakeFiles/cipher.dir/compiler_depend.make
+build/CMakeFiles/cipher.dir/compiler_depend.ts
+build/CMakeFiles/cipher.dir/depend.make
+build/CMakeFiles/cipher.dir/DependInfo.cmake
+build/CMakeFiles/cipher.dir/flags.make
+build/CMakeFiles/cipher.dir/link.txt
+build/CMakeFiles/cipher.dir/linklibs.rsp
+build/CMakeFiles/cipher.dir/objects1.rsp
+build/CMakeFiles/cipher.dir/progress.make
+build/CMakeFiles/Template_Project.dir/build.make
+build/CMakeFiles/Template_Project.dir/cmake_clean.cmake
+build/CMakeFiles/Template_Project.dir/compiler_depend.make
+build/CMakeFiles/Template_Project.dir/compiler_depend.ts
+build/CMakeFiles/Template_Project.dir/depend.make
+build/CMakeFiles/Template_Project.dir/DependInfo.cmake
+build/CMakeFiles/Template_Project.dir/flags.make
+build/CMakeFiles/Template_Project.dir/link.txt
+build/CMakeFiles/Template_Project.dir/linklibs.rsp
+build/CMakeFiles/Template_Project.dir/objects1.rsp
+build/CMakeFiles/Template_Project.dir/progress.make
+build/cmake_install.cmake
+build/CMakeCache.txt
+build/Makefile
+build/CMakeFiles/cmake.check_cache
+build/CMakeFiles/CMakeDirectoryInformation.cmake
+build/CMakeFiles/CMakeOutput.log
+build/CMakeFiles/Makefile.cmake
+build/CMakeFiles/Makefile2
+build/CMakeFiles/progress.marks
+build/CMakeFiles/TargetDirectories.txt
+build/CMakeFiles/3.20.0-rc1/CMakeCCompiler.cmake
+build/CMakeFiles/3.20.0-rc1/CMakeCXXCompiler.cmake
+build/CMakeFiles/3.20.0-rc1/CMakeDetermineCompilerABI_C.bin
+build/CMakeFiles/3.20.0-rc1/CMakeDetermineCompilerABI_CXX.bin
+build/CMakeFiles/3.20.0-rc1/CMakeRCCompiler.cmake
+build/CMakeFiles/3.20.0-rc1/CMakeSystem.cmake
+build/CMakeFiles/3.20.0-rc1/CompilerIdC/CMakeCCompilerId.c
+build/CMakeFiles/3.20.0-rc1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+build/CMakeFiles/Tic-Tac-Toe.dir/build.make
+build/CMakeFiles/Tic-Tac-Toe.dir/cmake_clean.cmake
+build/CMakeFiles/Tic-Tac-Toe.dir/compiler_depend.make
+build/CMakeFiles/Tic-Tac-Toe.dir/compiler_depend.ts
+build/CMakeFiles/Tic-Tac-Toe.dir/depend.make
+build/CMakeFiles/Tic-Tac-Toe.dir/DependInfo.cmake
+build/CMakeFiles/Tic-Tac-Toe.dir/flags.make
+build/CMakeFiles/Tic-Tac-Toe.dir/link.txt
+build/CMakeFiles/Tic-Tac-Toe.dir/linklibs.rsp
+build/CMakeFiles/Tic-Tac-Toe.dir/objects1.rsp
+build/CMakeFiles/Tic-Tac-Toe.dir/progress.make
